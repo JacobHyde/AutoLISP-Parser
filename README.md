@@ -9,6 +9,7 @@ Installation:
 These files should be placed together into a common folder.
 
 APPLOAD the file "LispIndex - Tokenizer.lsp" into AutoCAD to get access to the tools.
+
 Add the files to your startup suite, or load them programatically from other sources, if desired
 ======================================================================================
 
